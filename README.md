@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/samsleepingatparty">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=dark" />        
   </a>&nbsp;&nbsp;
 </p>
 
