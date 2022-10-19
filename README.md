@@ -30,8 +30,11 @@
 </p>
 
 <p align='center'>
-  📫 Hit me up! : <a href='mailto:sleepingatparty.society@gmail.com'>sleepingatparty.society@gmail.com</a>
+  Hit me up!<br>
+  <a href="mailto:sleepingatparty.society@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://sam.sleepingatparty.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="t.me/vermozza"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 <p align='center'>
-  <i>sleeping at party, stay awake at code</i>
+  <i>❝ sleeping at party, stay awake at code ❞</i>
 </p>
