@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm XEM! <span class="wave">👋</span></h1>
 
-###
-
 <h6 align="center">XEM, a self-taught front end web developer based in South Jakarta, Indonesia.<br>Very familiar with web development, and UI/UX Design using JavaScript.<br>Really like the design with a monochrome color composition accompanied by components that look user-friendly.</h6>
-
-###
 
 <div align="center">
   <h6>
@@ -27,11 +23,8 @@
   </a>
 </div>
 
-###
-
 <h2 align="center">I like all this more than a kiss from my girlfriend</h2>
 
-###
 <div align="center">
   <h6>Skillset / Tech Stack</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" width="47" alt="javascript logo"  />
@@ -47,7 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
 </div>
 
-###
 <div align="center">
   <h6>Workspace</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" width="47" alt="linux logo"  />
@@ -55,20 +47,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"  />
 </div>
 
-###
-
 <h2 align="center">Statistics are there so you guys know I'm still alive</h1>
 
-###
 <div align="center">
   <h6>GitHub Stats (All)</h6>
   <img src="https://github-readme-stats.vercel.app/api?username=samsleepingatparty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
   
   <h6>WakaTime Stats (Daily)</h6>
-  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/54aade33-c9b6-45b8-a677-eb1fd3de3df2.svg" />
-  <br>
-  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/458d69d3-0d5d-4a6d-8d37-a24175aa7a0e.svg" width="500" />
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 
 ---
@@ -80,5 +68,3 @@
   <br>
   <i>Happy Coding!</i>
 </h6>
-
-###
