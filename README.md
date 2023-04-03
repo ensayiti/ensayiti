@@ -29,10 +29,11 @@
 
 ###
 
-<h2 align="center">Technologies + Workspace</h1>
+<h2 align="center">I like all this more than a kiss from my girlfriend</h2>
 
 ###
 <div align="center">
+  <h6>Skillset / Tech Stack</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" width="47" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="47" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
@@ -48,6 +49,7 @@
 
 ###
 <div align="center">
+  <h6>Workspace</h6>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" width="47" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" width="47" alt="ubuntu logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"  />
@@ -55,16 +57,21 @@
 
 ###
 
-<h2 align="center">The Stats, The Language</h1>
+<h2 align="center">Statistics are there so you guys know I'm still alive</h1>
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsleepingatparty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=samsleepingatparty&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <h6>GitHub Stats (All)</h6>
+  <img src="https://github-readme-stats.vercel.app/api?username=samsleepingatparty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  <h6>WakaTime Stats (Daily)</h6>
+  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/c373ac7a-a929-4cc8-9315-ccbd7c039cc6.svg" />
+  <br>
+  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/40498027-5bc6-4a63-94b1-39b1143704c3.svg" width="500" />
 </div>
 
-###
+---
 
 <h6 align="center">
   You have finally discovered my Github profile.
