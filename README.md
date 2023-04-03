@@ -66,9 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
   
   <h6>WakaTime Stats (Daily)</h6>
-  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/c373ac7a-a929-4cc8-9315-ccbd7c039cc6.svg" />
+  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/54aade33-c9b6-45b8-a677-eb1fd3de3df2.svg" />
   <br>
-  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/40498027-5bc6-4a63-94b1-39b1143704c3.svg" width="500" />
+  <img src="https://wakatime.com/share/@0870919c-0a1e-46bf-abfe-84e5e735d7d5/458d69d3-0d5d-4a6d-8d37-a24175aa7a0e.svg" width="500" />
 </div>
 
 ---
