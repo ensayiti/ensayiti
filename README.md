@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samsleepingatparty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
   
-  <h6>WakaTime Stats (Daily)</h6>
+  <h6>WakaTime Stats (Weekly)</h6>
   <!--START_SECTION:waka-->
 
 ```text
