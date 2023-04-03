@@ -56,7 +56,21 @@
   
   <h6>WakaTime Stats (Daily)</h6>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+From: 29 March 2023 - To: 02 April 2023
+
+Total Time: 9 hrs 16 mins
+
+JavaScript   3 hrs 57 mins   >>>>>>>>>>>--------------   42.70 %
+HTML         3 hrs 56 mins   >>>>>>>>>>>--------------   42.47 %
+TypeScript   56 mins         >>>----------------------   10.07 %
+Git          12 mins         >------------------------   02.26 %
+CSS          11 mins         >------------------------   02.00 %
+Other        1 min           -------------------------   00.25 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 
 ---
