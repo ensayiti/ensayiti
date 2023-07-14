@@ -47,6 +47,7 @@
 <h2 align="center">Statistics are there so you guys know I'm still alive</h1>
 
 <div align="center">
+  
   <h6>WakaTime Stats</h6>
   <!--START_SECTION:waka-->
 
