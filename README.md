@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/samuel-andika-94616625b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://dribbble.com/itstaureans" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
-  </a>
   <a href="mailto:itstaureans@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
@@ -50,10 +47,6 @@
 <h2 align="center">Statistics are there so you guys know I'm still alive</h1>
 
 <div align="center">
-  <h6>GitHub Stats</h6>
-  <img src="https://github-readme-stats.vercel.app/api?username=samsleepingatparty&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samsleepingatparty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
-  
   <h6>WakaTime Stats</h6>
   <!--START_SECTION:waka-->
 
