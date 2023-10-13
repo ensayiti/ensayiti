@@ -52,20 +52,20 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2023 - To: 10 October 2023
+From: 29 March 2023 - To: 11 October 2023
 
-Total Time: 415 hrs 52 mins
+Total Time: 417 hrs 41 mins
 
-TypeScript       183 hrs 53 mins ███████████░░░░░░░░░░░░░░   44.22 %
-PHP              94 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-JavaScript       71 hrs 20 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-HTML             22 hrs 33 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Blade Template   12 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-JSON             9 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+TypeScript       185 hrs 42 mins ███████████░░░░░░░░░░░░░░   44.46 %
+PHP              94 hrs 16 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
+JavaScript       71 hrs 20 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+HTML             22 hrs 33 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Blade Template   12 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JSON             9 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 Bash             5 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 CSS              3 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Python           3 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Other            3 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python           3 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other            3 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
