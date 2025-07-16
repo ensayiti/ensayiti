@@ -17,28 +17,9 @@
 <h2 align="center">Statistics are there so you guys know I'm still alive</h1>
 
 <div align="center">
-  
-  <h6>WakaTime Stats</h6>
   <!--START_SECTION:waka-->
 
-```txt
-From: 29 March 2023 - To: 29 June 2025
-
-Total Time: 729 hrs 31 mins
-
-TypeScript       294 hrs 59 mins ██████████░░░░░░░░░░░░░░░   40.44 %
-PHP              241 hrs 19 mins ████████▒░░░░░░░░░░░░░░░░   33.08 %
-JavaScript       77 hrs 4 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Blade Template   33 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-HTML             25 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JSON             19 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash             10 hrs 16 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other            5 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-CSS              5 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Python           3 hrs 40 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 
 ---
