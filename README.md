@@ -5,6 +5,8 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php,rust,react,electron,tauri,nextjs,laravel&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-776%20hrs%2044%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -23,14 +25,10 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-CSS                      24 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.41 % 
-Markdown                 11 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.32 % 
-Other                    7 mins              ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.72 % 
-PHP                      5 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.12 % 
-Git Config               3 mins              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.66 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2025 01:23:48 UTC
+ Last Updated on 01/08/2025 01:31:21 UTC
 <!--END_SECTION:waka-->
 </details>
