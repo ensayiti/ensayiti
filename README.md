@@ -5,8 +5,6 @@
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php,rust,react,electron,tauri,nextjs,laravel&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2041%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.29%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -29,6 +27,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/05/2026 02:38:41 UTC
+ Last Updated on 24/05/2026 02:50:11 UTC
 <!--END_SECTION:waka-->
 </details>
