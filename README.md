@@ -1,6 +1,4 @@
-# Hey 👋
-
-**I'm XEM** - A fullstack developer, software engineer, maker, and designer.
+![My GitHub Game](game.gif)
 
 ![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php,rust,react,electron,tauri,nextjs,laravel&theme=dark)
 
